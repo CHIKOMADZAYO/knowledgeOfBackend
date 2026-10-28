@@ -1,6 +1,6 @@
 mark = float(input("Enter the student's mark: "))
 
-if mark >= 70:
+if mark >= 70 :
 	grade = "A"
 elif mark >= 60:
 	grade = "B"
